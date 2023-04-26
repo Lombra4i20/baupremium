@@ -1,0 +1,26 @@
+BauPremium
+O BauPremium é um script para o Vorp Core que permite a criação de baús com permissão para grupos utilizando um prompt. Ele foi desenvolvido para facilitar a vida dos jogadores de RP que desejam criar baús de maneira rápida e fácil.
+
+Requisitos
+Antes de usar o Baupremium, certifique-se de ter os seguintes recursos instalados:
+
+VorpCore
+Vorp_ProgressBar
+VorpUtils
+Como instalar
+Para instalar o Baupremium, basta adicionar o script na pasta resources do seu servidor Vorp Core e iniciar o script no seu arquivo server.cfg.
+
+Como usar
+Para usar o BauPremium, basta usar o config.lua
+
+
+Arquivo de configuração
+O BauPremium utiliza um arquivo de configuração chamado "config.lua". Esse arquivo permite que você configure diferentes aspectos do script, como o preço base do baú e a lista de grupos permitidos.
+
+Para editar o arquivo de configuração, basta abri-lo em um editor de texto e fazer as alterações necessárias. Certifique-se de salvar o arquivo após fazer as alterações.
+
+Como contribuir
+O Baupremium é licenciado sob a Licença Pública Geral GNU, versão 3.0. Se você deseja contribuir para o Baupremium, sinta-se livre para enviar um pull request no meu repositório no Github. Qualquer ajuda é bem-vinda, desde correção de bugs até sugestões de melhorias.
+
+Licença
+O Baupremium é licenciado sob a Licença Pública Geral GNU, versão 3.0. Consulte o arquivo LICENSE para obter mais informações.
