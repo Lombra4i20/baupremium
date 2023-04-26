@@ -7,6 +7,7 @@ Antes de usar o Baupremium, certifique-se de ter os seguintes recursos instalado
 VorpCore
 Vorp_ProgressBar
 VorpUtils
+
 Como instalar
 Para instalar o Baupremium, basta adicionar o script na pasta resources do seu servidor Vorp Core e iniciar o script no seu arquivo server.cfg.
 
